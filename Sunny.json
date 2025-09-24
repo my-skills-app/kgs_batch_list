@@ -1,6 +1,29 @@
 [
+
+
+
+
+ {
+    "id": 816,
+    "title": "UP SI (Moolvidhi + Polity) Batch Recorded",
+    "category_id": 2,
+    "start_at": "2025-09-08",
+    "end_at": "2026-09-08",
+    "image_large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1a1eaa3d-c47e-4db8-aa5f-75a8a6dcf663.jpg",
+    "image_thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1a1eaa3d-c47e-4db8-aa5f-75a8a6dcf663.jpg"
+  },
   
+
   {
+    "id": 590,
+    "title": "UP Police Foundation Batch 2025",
+    "category_id": 2,
+    "start_at": "2025-09-08",
+    "end_at": "2026-09-08",
+    "image_large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ec3caf6c-d882-44f9-81f5-87fb3618ca37.webp",
+    "image_thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ec3caf6c-d882-44f9-81f5-87fb3618ca37.webp"
+  },
+   {
     "id": 835,
     "title": "RRB GROUP D रफ्तार BATCH 2025",
     "category_id": 2,
@@ -10,8 +33,16 @@
     "image_thumb": "https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/86e520db-224f-4dbc-97f6-24683a3ab52e.jpg"
   },
   
-  
-  {
+ {
+    "id": 816,
+    "title": "UP SI (Moolvidhi + Polity) Batch Recorded",
+    "category_id": 2,
+    "start_at": "2025-09-08",
+    "end_at": "2026-09-08",
+    "image_large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1a1eaa3d-c47e-4db8-aa5f-75a8a6dcf663.jpg",
+    "image_thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1a1eaa3d-c47e-4db8-aa5f-75a8a6dcf663.jpg"
+  },
+   {
     "id": 813,
     "title": "Hindi Literature Optional",
     "category_id": 2,
